@@ -1,0 +1,32 @@
+title: 祥云的技术日记
+author: 祥云
+email: your-email@example.com
+description: 记录技术探索与成长的足迹
+baseurl: ""
+url: "https://yourusername.github.io"
+
+# GitHub Discussions 评论配置
+github_comments:
+  enabled: true
+  repo: "yourusername/xiangyun-blog"
+  category: "Announcements"
+
+# Markdown 设置
+markdown: kramdown
+highlighter: rouge
+
+# Permalink 设置
+permalink: /:categories/:title/
+
+# 插件
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+# Exclude
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
