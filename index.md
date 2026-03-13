@@ -2,6 +2,8 @@
 layout: default
 ---
 
+<h2 class="section-title">最新文章</h2>
+
 <div class="posts-grid">
   {% for post in site.posts %}
     <article class="post-card">
