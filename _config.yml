@@ -3,14 +3,14 @@ author: 祥云
 email: your-email@example.com
 description: 记录技术探索与成长的足迹
 baseurl: ""
-url: "https://yourusername.github.io"
-avatar: "https://github.com/identicons/jasonlong.png"
-github_username: yourusername
+url: "https://xuanxuan669966.github.io/xiangyun-blog"
+avatar: "https://api.dicebear.com/7.x/avataaars/svg?seed=xiangyun"
+github_username: xuanxuan669966
 
 # GitHub Discussions 评论配置
 github_comments:
   enabled: true
-  repo: "yourusername/xiangyun-blog"
+  repo: "xuanxuan669966/xiangyun-blog"
   category: "Announcements"
 
 # Markdown 设置
