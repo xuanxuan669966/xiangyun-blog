@@ -4,6 +4,8 @@ email: your-email@example.com
 description: 记录技术探索与成长的足迹
 baseurl: ""
 url: "https://yourusername.github.io"
+avatar: "https://github.com/identicons/jasonlong.png"
+github_username: yourusername
 
 # GitHub Discussions 评论配置
 github_comments:
